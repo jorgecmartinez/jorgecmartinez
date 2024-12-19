@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jorgecmartinez
-- 👀 I’m interested in Machine Learning and Data Analysis
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on some projects
+- 👀 I’m interested in Electricity Market, in particular, Data science and analysis
+- 🌱 I’m currently mainly working on Python. However, other languages can be used as well.
+- 💞️ Please, take a look to my public repositories. I’m open to collaborate.
 - 📫 How to reach me: canomartinez.jorge@gmail.com
